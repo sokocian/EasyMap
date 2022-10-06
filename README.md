@@ -1,0 +1,2 @@
+# EasyMap
+Roblox mapping plugin
